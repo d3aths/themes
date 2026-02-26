@@ -1,0 +1,47 @@
+slug = "skeuovolt-light"
+name = "Skeuovolt Light"
+creator = "Cyn"
+description = "A modification of Skeuovolt by Septicity, light version made to look like Windows XP"
+version = "0.0.1"
+tags = ["skeuomorphism", "skeuomorphic", "gradient", "light", "aero", "windows" "white", "blue"]
+
+[variables]
+light = true
+accent = "#3498DB"
+background = "#ffffff"
+foreground = "#000000"
+block = "#544f4f"
+message-box = #F1F1F1"
+mention = "rgba(251, 255, 0, 0.40)"
+success = "#65E572"
+warning = "#FAA352"
+tooltip = "#FFF"
+error = "#ED4245"
+hover = "rgba(0, 0, 0, 0.2)"
+
+[variables.scrollbar]
+scrollbar-thumb = "#2a7aaf"
+scrollbar-track = "transparent"
+
+[variables.primary]
+background = "#FFFFFF"
+header = "#F1F1F1"
+
+[variables.secondary]
+background = "#F1F1F1"
+foreground = "#212121"
+header = "#F1F1F1"
+
+[variables.tertiary]
+background = "#c2c2c2"
+foreground = "#454545"
+
+[variables.status]
+status-online = "#3ABF7E"
+status-away = "#F39F00"
+status-focus = "#4799F0"
+status-busy = "#F84848"
+status-streaming = "#977EFF"
+status-invisible = "#A5A5A5"
+font = "Montserrat"
+monospaceFont = "Ubuntu Mono"
