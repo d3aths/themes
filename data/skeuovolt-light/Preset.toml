@@ -3,7 +3,7 @@ name = "Skeuovolt Light"
 creator = "Cyn"
 description = "A modification of Skeuovolt by Septicity, light version made to look like Windows XP"
 version = "0.0.1"
-tags = ["skeuomorphism", "skeuomorphic", "gradient", "light", "aero", "windows" "white", "blue"]
+tags = ["skeuomorphism", "skeuomorphic", "gradient", "light", "aero", "windows", "white", "blue"]
 
 [variables]
 light = true
@@ -45,4 +45,5 @@ status-streaming = "#977EFF"
 status-invisible = "#A5A5A5"
 font = "Montserrat"
 monospaceFont = "Ubuntu Mono"
+
 
